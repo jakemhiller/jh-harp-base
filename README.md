@@ -8,6 +8,7 @@ Set up for easy deployment to GitHub Pages
 *Steps:*
 
 * clone this repo
+* cd into the directory
 * install harp: `npm install harp -g`
 * run the server: `harp server _harp/`
 * build for github pages: `harp compile _harp ./`
